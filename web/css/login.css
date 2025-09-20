@@ -1,0 +1,112 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jul 9, 2025, 12:25:03 AM
+    Author     : 84904
+*/
+
+.login-header h2 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: black;
+    margin-left: 80px; 
+}
+
+.login-wrapper {
+    position: relative;
+    height: 100vh;
+    padding-top: 20px; 
+    box-sizing: border-box;
+}
+
+.banner {
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.login-container {
+    position: absolute;
+    top: 38%;
+    left: 70%; 
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    z-index: 2;
+}
+
+.logout-container {
+    position: absolute;
+    top: 38%;
+    left: 70%; 
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 540px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    z-index: 2;
+}
+
+.login-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-control:focus {
+    border-color: #f53d2d;
+    box-shadow: none;
+}
+
+.btn-login {
+    background-color: #f53d2d !important;
+    color: white !important;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-login:hover {
+    background-color: #d9321f !important;
+}
+
+.btn-login:hover {
+    background-color: #d9321f;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    text-align: center;
+}
+.register-prompt {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.register-link {
+    color: #ee4d2d;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.register-link:hover {
+    text-decoration: underline;
+    color: #f53d2d;
+}

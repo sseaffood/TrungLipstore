@@ -1,0 +1,35 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jul 12, 2025, 2:23:54 PM
+    Author     : 84904
+*/
+
+body {
+    background-color: #f8f9fa;
+}
+
+.user-info-box {
+    max-width: 600px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 25px 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-info-box h3 {
+    margin-bottom: 20px;
+}
+
+.user-info-box .info-item {
+    margin-bottom: 15px;
+}
+
+.user-info-box .info-item label {
+    font-weight: bold;
+    display: inline-block;
+    width: 120px;
+}

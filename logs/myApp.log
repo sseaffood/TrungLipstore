@@ -1,0 +1,31 @@
+2025-07-12 23:47:29 INFO  CreateController - Ð? t?o ngý?i dùng: 
+2025-07-13 00:00:52 WARN  CreateController - Validation failed: Duplicate userID 'admin3232'
+2025-07-13 00:03:17 WARN  CreateController - Validation failed: Password and confirm do not match
+2025-07-13 16:33:30 INFO  CreateController - Create user successfull admin123
+2025-07-13 16:34:49 INFO  CreateController - Create user successfull: 
+2025-07-13 17:26:43 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-07-13 17:27:12 WARN  CheckoutController - So luong trong kho khong du 'P007' 
+2025-07-13 17:27:32 WARN  CheckoutController - So luong trong kho khong du 'P007' 
+2025-07-13 17:27:41 WARN  CheckoutController - So luong trong kho khong du 'P007' 
+2025-07-13 17:27:53 WARN  CheckoutController - So luong trong kho khong du 'P007' 
+2025-07-13 17:28:42 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-07-13 21:26:51 DEBUG CheckoutController - Loi thanh toan do checkoutController
+2025-07-13 21:36:11 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-07-13 21:43:06 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-07-13 21:43:20 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-07-13 21:43:31 INFO  CreateController - Create user successfull admin3434
+2025-07-13 21:47:46 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-07-13 21:48:01 INFO  CreateController - Da dang nhap duoi quyen admin 'admin'
+2025-07-19 14:33:27 INFO  CreateController - Da dang nhap duoi quyen admin 'admin3636'
+2025-07-19 14:33:53 INFO  CreateController - Da dang nhap duoi quyen user 'admin321'
+2025-07-19 15:20:08 INFO  CreateController - Da dang nhap duoi quyen admin 'admin'
+2025-07-19 15:23:16 WARN  CheckoutController - So luong trong kho khong du 'P001' 
+2025-07-19 15:23:26 WARN  CheckoutController - So luong trong kho khong du 'P001' 
+2025-07-19 15:23:40 INFO  CheckoutController - Da xu ly thanh cong don hang!
+2025-08-24 17:59:28 INFO  CreateController - Da dang nhap duoi quyen admin 'admin'
+2025-08-25 15:52:37 INFO  CreateController - Create user successfull taolaai
+2025-08-25 15:52:51 INFO  CreateController - Da dang nhap duoi quyen user 'taolaai'
+2025-08-25 15:54:59 WARN  CreateController - Validation failed: Duplicate userID 'taolaai'
+2025-08-25 15:55:16 INFO  CreateController - Create user successfull taolaai1
+2025-08-25 15:56:01 INFO  CreateController - Da dang nhap duoi quyen admin 'admin'
+2025-08-25 15:56:16 INFO  CreateController - Create user successfull taolaai12

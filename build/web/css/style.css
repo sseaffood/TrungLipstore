@@ -1,0 +1,129 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jul 7, 2025, 11:25:21 PM
+    Author     : 84904
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: white
+}
+
+.top-bar {
+    background-color: #ee4d2d;
+    color: white;
+    padding: 10px;
+}
+
+.nav-search {
+    width: 400px;
+}
+
+.banner {
+    background: url("../welcomeImages") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.product-card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.product-card img {
+    max-height: 160px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.product-card h5 {
+    font-size: 1rem;
+    margin: 10px 0 5px;
+}
+
+.product-card .price {
+    color: #e53935;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.bg-pink {
+  background-color: #ff69b4;
+}
+
+.navbar a {
+    font-weight: bold;
+    color: black !important;
+    text-decoration: none;
+}
+.navbar a:hover {
+    color: #ee4d2d !important;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.carousel-inner img {
+  max-height: 400px;
+  object-fit: cover;
+}
+.top-contact {
+    font-size: 0.9rem;
+}
+
+.navbar-nav {
+    margin: auto; 
+}
+.navbar-nav .nav-item .nav-link {
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.nav-search {
+    width: 150%;
+    height: 40px;
+    font-size: 1rem;
+    border-radius: 25px;
+    padding-left: 15px;
+}
+
+.top-contact a {
+    text-decoration: none;
+}
+
+.top-contact i {
+    font-size: 1rem;
+}
+.btn-outline-success {
+    border-color: black;
+    color: black;
+}
+
+.btn-outline-success:hover {
+    background-color: white;
+    color: #ee4d2d;
+}
+
+
+
+

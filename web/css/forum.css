@@ -1,0 +1,66 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jul 12, 2025, 1:24:20 AM
+    Author     : 84904
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f8;
+}
+
+.article-list {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff0f5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #f9c;
+}
+
+.article-list h4 {
+    margin-bottom: 10px;
+    color: #d63384;
+}
+
+.article-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.article-list li {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.article-list a {
+    text-decoration: none;
+    color: #d63384;
+}
+
+.article-list a:hover {
+    text-decoration: underline;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pagination a, .pagination strong {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 0 2px;
+    border: 1px solid #d63384;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #d63384;
+}
+
+.pagination strong {
+    background-color: #d63384;
+    color: white;
+}

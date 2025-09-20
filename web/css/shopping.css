@@ -1,0 +1,89 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jul 10, 2025, 7:24:11 PM
+    Author     : 84904
+*/
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 30px 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.col-md-3 {
+    width: calc(25% - 20px);
+    box-sizing: border-box;
+}
+
+.card {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: contain; 
+    max-height: 220px; 
+    padding: 10px;
+    background-color: #fff; 
+}
+
+
+.card-body {
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 16px;
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.price {
+    color: #e60000;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.btn-outline-danger {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid #e60000;
+    color: #e60000;
+}
+
+.btn-outline-danger:hover {
+    background-color: #e60000;
+    color: white;
+}
+
+.buy-form {
+    margin: 30px auto;
+    max-width: 500px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
